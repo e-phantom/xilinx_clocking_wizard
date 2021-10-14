@@ -1,5 +1,7 @@
 This project explains the ways in which a FPGA developer can use Xilinx Clocking Wizard and how he/she can use its custom reconfiguration feature to configure the clock within Programmable logic on runtime.
 
+![Block Design](images/block_design.png)
+
 Prerequisits?
 - Xilinx Vivado (2017 or later)
 
